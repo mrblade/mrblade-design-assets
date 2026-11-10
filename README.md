@@ -1,4 +1,4 @@
-# Mr. Blade Design Assets
+# Mr. Blade's Design Assets
 
 <p align="center">
   <img src="https://mrbladedesigns.com/logo.svg" alt="Mr. Blade" width="200">
