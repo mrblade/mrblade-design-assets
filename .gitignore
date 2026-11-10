@@ -1,0 +1,21 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Common build and dependency directories
+node_modules/
+build/
+dist/
+target/
+.cache/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Environmental variables and secrets
+.env
+.env.local
+*.key
+*.pem
